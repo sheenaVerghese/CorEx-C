@@ -1,6 +1,6 @@
 # CorEx-C
 
-This repository consists of code and simulated data used in the Paper ...
+This repository consists of code and simulated data used in the paper which is under consideration for publication entitle "An Empirical Study of Several Information Theoretic Based Feature Extraction Methods for Classifying High Dimensional Low Sample Sized Data".
 
 The code is an extension of Correlation Explanation by Greg ver Steeg et. al. 
 
